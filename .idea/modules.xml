@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KafkaConsumerDemo.iml" filepath="$PROJECT_DIR$/KafkaConsumerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-easticsearch/kafka-consumer-easticsearch.iml" filepath="$PROJECT_DIR$/kafka-consumer-easticsearch/kafka-consumer-easticsearch.iml" />
+    </modules>
+  </component>
+</project>
